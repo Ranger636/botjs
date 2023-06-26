@@ -4,6 +4,8 @@ import dotenv from 'dotenv'
 
 import { loadCommands } from '@/core/loader'
 
+loadCommands()
+
 vueInit()
 dotenv.config()
 
