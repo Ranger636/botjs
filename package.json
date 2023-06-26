@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "dev": "node src/main.js"
+    "dev": "vite-node src/main.js"
   },
   "dependencies": {
     "discord.js": "^14.11.0",
